@@ -1,4 +1,4 @@
-# Project Title
+# temps-gen
 
 A CLI for scaffolding js framework projects, like react,react-native, next-mui, react-mui, aws, and many more!
 
