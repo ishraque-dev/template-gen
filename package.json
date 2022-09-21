@@ -1,0 +1,21 @@
+{
+  "name": "template-gen",
+  "version": "1.0.0",
+  "description": "Quickly generate js framework templates",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "template-gen": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ishraque-dev",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.1"
+  }
+}
