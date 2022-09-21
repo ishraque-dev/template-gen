@@ -1,6 +1,6 @@
 {
   "name": "temps-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly generate js framework templates",
   "main": "index.js",
   "type": "module",
