@@ -15,6 +15,16 @@
   "dependencies": {
     "inquirer": "^8.2.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishraque-dev/template-gen"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
+  },
   "devDependencies": {
     "@babel/core": "^7.19.1"
   }
