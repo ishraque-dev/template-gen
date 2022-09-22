@@ -14,13 +14,13 @@ npm install temps-gen
 
 ## Using
 
-To create a template use $ temps-gen in you command line with out the $ sign and select a template.
+To create a template use $ temps-gen in you command line without the $ sign and select a template.
 
 ## Bugs
 
 If you are using powershell to install or run the command make sure you have the permission for run script files.
 Otherwise use a different terminal for eg- git bash.
-If you are facing other kinds of error please post a issue in github issues.
+If you are facing any kinds of error please post a issue in github issues.
 
 ## Support
 
